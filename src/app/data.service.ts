@@ -19,4 +19,7 @@ export class DataService {
   getBookById(id:any){
     return this.http.get("http://localhost:3000/contents/"+id)
   }
+  deleteBook(id:any){
+    this.http.delete("http://localhost:3000/contents/"+id).subscribe()
+  }
 }

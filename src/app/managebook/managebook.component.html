@@ -1,1 +1,3 @@
-<p>managebook works!</p>
+<div class="home" *ngFor="let item of bookDetails">
+  <h2>Book: <span class="text">{{item.name}}</span> Author: <span class="text">{{item.author}}</span></h2> <button (click)="deleteBook(item.id)">Delete</button>
+</div>
