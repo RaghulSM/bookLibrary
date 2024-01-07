@@ -1,0 +1,5 @@
+<h1>Book Details</h1>
+
+<div class="home" *ngFor="let item of bookData">
+  <h2>Book: <span class="text">{{item.name}}</span> Author: <span class="text">{{item.author}}</span></h2> <button (click)="viewDetails(item.description)">view Details</button>
+</div>

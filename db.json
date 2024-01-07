@@ -1,0 +1,58 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "contents": [
+    {
+      "name": "Camp Zero",
+      "author": "Michelle Min",
+      "description": "In remote northern Canada, in a near-future world, a team is breaking ground on Camp Zero –a project intended to create shelter and a new life for those displaced by climate change. Rose joins a group hired to entertain the men in the camp – but her real mission is to secretly monitor the architect at the helm of the project. In return, she’ll receive a home for herself and her Korean immigrant mother. But upon arriving, she quickly discovers she’s not the only one with a hidden agenda. Told through a mix of perspectives – such as a professor yearning to escape his wealthy family and an all-women military research unit at a climate station – “Camp Zero” is an exploration of the community that can be forged in the midst of disaster.",
+      "id": 1
+    },
+    {
+      "name": "Homecoming",
+      "author": "Kate Morton",
+      "description": "A struggling journalist named Jess travels from London to Sydney after receiving a call that her grandmother has suffered a fall and is seriously ill in the hospital. Upon returning to the house where she was raised, she stumbles upon a true crime book chronicling a long-buried murder case: the Turner family tragedy of 1959. As she flips through its pages, an eerie feeling creeps up her spine and she discovers an appalling connection between her own family and this unsolved murder case. “Homecoming” is a story that spans generations, asking important questions such as how far we go to protect the ones we love, which secrets are better kept hidden and what it means to come home.",
+      "id": 2
+    },
+    {
+      "name": "Before We Were Innocent",
+      "author": "Ella Berman ",
+      "description": "Ten years ago, three friends took a vacation to Greece. Only two of them returned home. Although Bess and Joni were cleared of having any involvement in Evangeline’s death and were therefore never convicted, the teenage girls were torn to shreds by media outlets and people who were convinced of their guilt. They moved on with their lives as best as they could – Joni capitalized on her infamy and became a motivational speaker, while Beth resolved to hide from any further attention, making her life as small and safe as possible. It almost worked. But now, Joni is tangled up in an eerily familiar crime and calls Beth for help. It might finally be time for Beth to face up to what really happened that night in Greece. The question is: will she?",
+      "id": 3
+    },
+    {
+      "name": "The Golden Doves",
+      "author": "Martha Hall Kelly",
+      "description": "When Josie and Arlette – renowned French resistance spies known as the Golden Doves – are arrested by Nazis and taken to the Ravensbrück concentration camp, their loved ones are taken with them. A reclusive Nazi doctor does unspeakable things to Josie’s mother, an acclaimed Jewish singer. Arlette’s son is taken away from her, never to be seen again. \n\nTen years later, Josie is working for U.S. Army Intelligence and accepts an assignment to track down the Nazi doctor, while a cryptic man tells Arlette he may have found her son. Together, they embark on a quest across Europe and ultimately to the French Guiana, putting themselves in danger. From the bestselling author of “Lilac Girls” comes a love letter to all the overlooked women spies who risked everything to bring Nazi fugitives to justice.",
+      "id": 4
+    },
+    {
+      "name": "Life in Five Senses ",
+      "author": "Gretchen Rubin",
+      "description": "Gretchen Rubin, #1 New York Times bestselling author of the nonfiction book “The Happiness Project,” has been studying happiness and human nature for over ten years. In her latest book, she explores a key element of happiness she had previously overlooked: her five senses. Drawing on science, philosophy and literature, she uncovers the power of tuning in to the physical world through sight, sound, smell, taste and touch. From appreciating the taste of ketchup to creating a daily ritual of visiting an art museum, Rubin teaches readers to experience each day with depth. “Life in Five Senses” is filled with insights and suggestions on how to heighten our senses and live more intentional lives.",
+      "id": 5
+    },
+    {
+      "name": "The Half Moon",
+      "author": "Mary Beth Keane ",
+      "description": "This new novel from the bestselling author of “Ask Again, Yes” takes place over the course of one week in the life of a married couple down on their luck. Malcolm has dreams of opening his own bar and finally has the chance to buy Half Moon, where he bartends, from his retired boss  – but he’s struggling to stay afloat. His wife, a successful lawyer named Jess, is coming to terms with the fact that she may never become a mother, after trying for a baby for years. On top of this, a blizzard hits their town and traps everyone in place. During that one week, their lives are shaken up when a patron of the bar goes missing and Malcolm learns shocking news about Jess. “The Half Moon” grapples with the pit-in-stomach feeling of midlife regret and the many shapes of forgiveness. \n\n ",
+      "id": 6
+    }
+
+  ]
+}
