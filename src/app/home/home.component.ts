@@ -18,14 +18,14 @@ constructor(private dataService:DataService, private router:Router,private http:
 }
 ngOnInit(){}
 
-viewDetails(id:any){
+viewDetails(value:any){
   // this.dataService.getBookById(id).subscribe(result=>{
   //   this.details=result;
   //   this.dataService.bookData=this.details;
   //   this.router.navigateByUrl("/viewDetails")
   // })
-  this.dataService.bookData=id;
-  this.router.navigateByUrl("/viewDetails")
+  this.dataService.bookData=value;
+  this.router.navigate(['/viewDetails'],{queryParams:{description:value}})
 }
 
 
